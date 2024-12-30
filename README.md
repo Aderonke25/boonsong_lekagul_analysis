@@ -24,4 +24,4 @@ This repository is intended for researchers, conservationists, and environmental
 ## How to Get Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/boonsong-water-analysis.git
+   git clone https://github.com/Aderonke25/boonsong_lekagul_analysis.git
